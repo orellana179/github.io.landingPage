@@ -27,7 +27,7 @@ main{
 }
 .hero{
     display: grid;
-    gap: 30px;
+    gap: 35px;
 }
 .image{
     width: 100%;
@@ -83,25 +83,4 @@ footer{
     width: 35px;
     height: 35px;
     display: block;
-}
-@media screen and (min-width:700px) {
-    .hero{
-        grid-template-columns: 1fr 1fr;
-    }
-    .image{
-        height: 350px;
-    }
-    footer{
-        align-self: flex-end;
-        justify-self: flex-end;
-    }
-}
-@media screen and  (min-width:1000px){
-    .hero{
-        height: 500px;
-        align-items: center;
-    }
-    .image{
-        height: 450px;
-    }
 }

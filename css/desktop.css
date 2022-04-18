@@ -1,0 +1,43 @@
+body{
+    background-image: url('../images/bg-desktop.svg');
+}
+.hero{
+    grid-template-columns: 60% 40%;
+}
+.image{
+    height: 350px;
+}
+footer{
+    align-self: flex-end;
+    justify-self: flex-end;
+}
+.hero-info__title{
+    text-align: start;
+    font-size: 4rem;
+    line-height: 5.5rem;
+}
+.hero-info__description{
+    font-size: 1.8rem;
+    text-align: start;
+    line-height: 2.5rem;
+}
+.hero-info__register{
+    font-size: 1.8rem;
+    width: 190px;
+    height: 45px;
+    margin: 0;
+}
+.header-logo{
+    width: 150px;
+    height: 60px;
+}
+main{
+    width: 88%;
+}
+.hero{
+    height: 440px;
+    align-items: center;
+}
+.image{
+    height: 450px;
+}
