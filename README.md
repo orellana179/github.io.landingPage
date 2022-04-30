@@ -33,4 +33,4 @@ For the social icons, you can use a font icon library. Some suggestions can be f
 - [Ionicons](https://ionicons.com/)
 
 ## Link of page
-[Landing page](https://orellana179.github.io/github.io.landingPage/)
+[Landing page](https://orellana179.github.io/github.io.landingWebPage/)
